@@ -1,0 +1,8 @@
+{
+    "name": "Desktop App",
+    "version": 1.1,
+    "description": [
+        "Yeni geliştirmeler"
+    ],
+    "windows_file_name": "installers/windows/mysetup.exe"
+}
